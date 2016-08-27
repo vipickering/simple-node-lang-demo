@@ -3,6 +3,12 @@ var language = function(langSelected) {
         case 'en':
             return require('../content/en.json');
             break;
+        case 'en-GB':
+            return require('../content/en.json');
+            break;
+        case 'en-US':
+            return require('../content/en.json');
+            break;
         case 'fr' :
             return require('../content/fr.json');
             console.log("French");
