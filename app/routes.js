@@ -22,8 +22,7 @@ router.get('/examplePage', function (req, res) {
     res.render('examplePage', {
         title : language.title,
         langType : req.locale,
-        welcome : language.examplePage.welcome,
-        next : language.examplePage.next,
+        welcome : language.examplePage.welcome
   });
 });
 
