@@ -1,0 +1,10 @@
+{
+  "title" : "Language Demo",
+  "index": {
+    "welcome": "Hello",
+    "next" : "next"
+  },
+  "examplePage": {
+     "welcome": "This is the end"
+  }
+}
